@@ -1,0 +1,10 @@
+<!DOCtype html>
+<html>
+<head>
+<title> QUIZ </title>
+</head>
+<body>
+<p> Question and Answer </p>
+
+</body>
+</html>
